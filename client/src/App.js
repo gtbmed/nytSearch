@@ -1,6 +1,9 @@
 import React, { Component } from 'react';
 import logo from './logo.svg';
 import './App.css';
+import Main from './components/Main/Main.js';
+import Saved from './components/Saved/Saved.js';
+import Search from './components/Search/Search.js';
 
 class App extends Component {
   render() {
